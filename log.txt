@@ -1,41 +1,3 @@
-2023-01-31 19:41:29.259112: Backed up file p.txt to p.txt.20230131194129.backup
-2023-01-31 19:41:35.667495: Encrypted file p.txt
-2023-01-31 19:49:22.829316: Backed up file p.txt to p.txt.20230131194922.backup
-2023-01-31 19:49:30.168586: Encrypted file p.txt
-2023-01-31 19:49:58.063705: Backed up file p.txt to p.txt.20230131194958.backup
-2023-01-31 19:50:01.251210: Encrypted file p.txt
-2023-01-31 19:51:30.889458: Backed up file p.txt to p.txt.20230131195130.backup
-2023-01-31 19:51:34.666899: Encrypted file p.txt
-2023-01-31 19:51:53.424678: Backed up file p.txt to p.txt.20230131195153.backup
-2023-01-31 19:52:02.605253: Encrypted file p.txt
-2023-01-31 19:52:18.965663: Backed up file p.txt to p.txt.20230131195218.backup
-2023-01-31 19:52:22.453237: Encrypted file p.txt
-2023-01-31 20:07:15.697532: Decrypted file p.txt
-2023-01-31 20:14:44.583604: Backed up file p.txt to p.txt.20230131201444.backup
-2023-01-31 20:14:47.094743: Encrypted file p.txt
-2023-01-31 20:15:27.792628: Backed up file p.txt to p.txt.20230131201527.backup
-2023-01-31 20:15:38.134344: Encrypted file p.txt
-2023-01-31 20:55:48.975542: File pfkfjfjf.txt was not found .
-2023-01-31 20:56:19.969625: Backed up file p.txt to p.txt.20230131205619.backup
-2023-01-31 20:56:32.828204: Encrypted file p.txt
-2023-01-31 21:05:12.470075: Backed up file p.txt to p.txt.20230131210512.backup
-2023-01-31 21:05:16.859208: Encrypted file p.txt
-2023-01-31 21:05:58.111408: Decrypted file p.txt
-2023-01-31 21:13:47.377559: Backed up file p.txt to p.txt.20230131211347.backup
-2023-01-31 21:13:50.046376: Encrypted file p.txt
-2023-01-31 21:14:10.351140: Decrypted file p.txt
-2023-02-01 09:23:52.626399: Backed up file p.txt to p.txt.20230201092352.backup
-2023-02-01 09:23:55.300964: Encrypted file p.txt
-2023-02-01 09:24:08.555913: Decrypted file p.txt
-2023-02-02 08:17:56.995591: Backed up file p.txt to p.txt.20230202081756.backup
-2023-02-02 08:18:06.432111: Encrypted file p.txt
-2023-02-02 17:27:19.765351: Backed up file p.txt to p.txt.20230202172719.backup
-2023-02-02 17:27:29.815516: Encrypted file p.txt
-2023-02-02 17:27:54.869646: Backed up file p.txt to p.txt.20230202172754.backup
-2023-02-02 17:28:00.461808: Encrypted file p.txt
-2023-02-02 17:59:19.263679: Backed up file p.txt to p.txt.20230202175919.backup
-2023-02-02 17:59:58.843189: Encrypted file p.txt
-2023-02-02 18:03:48.902582: Decrypted file p.txt
 2025-03-01 15:27:32.938888: Failed to decode base64 in file abc.txt
 2025-03-01 15:27:41.911635: File abc was not found .
 2025-03-01 15:29:54.136801: Failed to decode base64 in file abc.txt
@@ -52,3 +14,10 @@
 2025-03-01 22:14:47.886298: Backed up file p.txt to p.txt.20250301221447.backup
 2025-03-01 22:14:51.953841: Encrypted file p.txt
 2025-03-01 22:15:30.400851: Decrypted file p.txt
+2025-03-01 22:55:51.428609: Backed up file abc.txt to abc.txt.20250301225551.backup
+2025-03-01 22:55:54.397094: Encrypted file abc.txt
+2025-03-01 22:58:16.623259: Decrypted file abc.txt
+2025-03-01 22:59:22.903095: File  was not found.
+2025-03-01 22:59:34.582616: Backed up file p.txt to p.txt.20250301225934.backup
+2025-03-01 22:59:39.830154: Encrypted file p.txt
+2025-03-01 23:01:08.293050: Decrypted file p.txt
